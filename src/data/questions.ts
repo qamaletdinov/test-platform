@@ -23,7 +23,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "в"
+      "г"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -49,7 +49,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "в"
+      "г"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -335,7 +335,7 @@ export const questions: Question[] = [
       },
       {
         "id": "б",
-        "text": "любая информация, относящаяся к прямо или косвенно определенному или определяемому физическому лицу (субъекту персональных данных)"
+        "text": "любая информация, относящаяся к прямо или косвенно определенному или определяемому физическому лицу (субъекту персональных данны"
       },
       {
         "id": "в",
@@ -346,7 +346,9 @@ export const questions: Question[] = [
         "text": "данные, касающиеся расовой, национальной принадлежности, политических взглядов, религиозных или философских убеждений, состояния здоровья, интимной жизни"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "б"
+    ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
@@ -393,7 +395,11 @@ export const questions: Question[] = [
       },
       {
         "id": "в",
-        "text": "федеральная государственная информационная система, представляющая собой совокупность документов и сведений в электронной форме (объекты исторического, научного и культурного достояния народов Российской Федерации), доступ к которым предоставляется с использованием сети \"Интернет\""
+        "text": "федеральная государственная информационная система, представляющая собой совокупность документов и сведений в электронной форме (объекты исторического, научного и культурного достояния народов Российской Федераци"
+      },
+      {
+        "id": "и",
+        "text": ", доступ к которым предоставляется с использованием сети \"Интернет\""
       },
       {
         "id": "г",
@@ -411,7 +417,11 @@ export const questions: Question[] = [
     "options": [
       {
         "id": "а",
-        "text": "концепция вычислительной сети, соединяющей вещи (физические предметы), оснащенные встроенными информационными технологиями для взаимодействия друг с другом или с внешней средой без участия человека"
+        "text": "концепция вычислительной сети, соединяющей вещи (физические предмет"
+      },
+      {
+        "id": "ы",
+        "text": ", оснащенные встроенными информационными технологиями для взаимодействия друг с другом или с внешней средой без участия человека"
       },
       {
         "id": "б",
@@ -426,7 +436,9 @@ export const questions: Question[] = [
         "text": "концепция построения информационных и коммуникационных инфраструктур на основе подключения к информационно-телекоммуникационной сети \"Интернет\" промышленных устройств, оборудования, датчиков, сенсоров, систем управления технологическими процессами, а также интеграции данных программно-аппаратных средств между собой без участия человека"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "а"
+    ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
@@ -549,7 +561,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -601,7 +613,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -652,10 +664,7 @@ export const questions: Question[] = [
         "text": "нет верного ответа"
       }
     ],
-    "correctOptionIds": [
-      "а",
-      "б"
-    ],
+    "correctOptionIds": [],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
@@ -846,7 +855,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -856,7 +865,7 @@ export const questions: Question[] = [
     "options": [
       {
         "id": "а",
-        "text": "исполнительныхоргановгосударственнойвласти(местных администраций)"
+        "text": "исполнительныхоргановгосударственнойвласти(местных администраци"
       },
       {
         "id": "б",
@@ -902,7 +911,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -1012,7 +1021,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -1037,7 +1046,9 @@ export const questions: Question[] = [
         "text": "дисконта, осуществляемые за счет средств соответствующего бюджета"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "в"
+    ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
@@ -1176,7 +1187,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -1202,7 +1213,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -1250,11 +1261,16 @@ export const questions: Question[] = [
       },
       {
         "id": "в",
-        "text": "общественная(социал-демократическая)модельсоциального государства"
+        "text": "общественная(социал-демократическа"
+      },
+      {
+        "id": "я",
+        "text": "модельсоциального государства"
       }
     ],
     "correctOptionIds": [
-      "в"
+      "в",
+      "я"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -1302,7 +1318,6 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
@@ -1373,7 +1388,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -1461,7 +1476,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -1535,7 +1550,6 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
@@ -1558,7 +1572,6 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
@@ -1647,7 +1660,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -1669,7 +1682,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -1690,7 +1703,9 @@ export const questions: Question[] = [
         "text": "распоряжения"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "б"
+    ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
@@ -1777,7 +1792,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -1820,7 +1835,9 @@ export const questions: Question[] = [
         "text": "общественными организациями"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "а"
+    ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
@@ -1841,7 +1858,6 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б",
       "в"
     ],
     "discipline": "infa_finasy_sobstvennost"
@@ -1864,7 +1880,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -1886,7 +1902,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
@@ -1914,6 +1930,28 @@ export const questions: Question[] = [
   },
   {
     "id": "q81",
+    "text": "Санация – это",
+    "options": [
+      {
+        "id": "а",
+        "text": "внешнее управление"
+      },
+      {
+        "id": "б",
+        "text": "финансовое оздоровление"
+      },
+      {
+        "id": "в",
+        "text": "огосударствление имущества"
+      }
+    ],
+    "correctOptionIds": [
+      "б"
+    ],
+    "discipline": "infa_finasy_sobstvennost"
+  },
+  {
+    "id": "q82",
     "text": "Объектом национализации является:",
     "options": [
       {
@@ -1935,7 +1973,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q82",
+    "id": "q83",
     "text": "Одним из этапов приватизации в России была:",
     "options": [
       {
@@ -1957,7 +1995,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q83",
+    "id": "q84",
     "text": "Допускается ли создание унитарного предприятия на базе объединения имущества, находящегося в собственности РФ, субъекта РФ или муниципального образования?",
     "options": [
       {
@@ -1974,12 +2012,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q84",
+    "id": "q85",
     "text": "Уставный фонд не формируется:",
     "options": [
       {
@@ -2001,7 +2039,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q85",
+    "id": "q86",
     "text": "Руководитель унитарного предприятия подотчетен:",
     "options": [
       {
@@ -2018,13 +2056,13 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q86",
-    "text": "Муниципальная собственность - это:",
+    "id": "q87",
+    "text": "над ним Муниципальная собственность - это:",
     "options": [
       {
         "id": "а",
@@ -2045,7 +2083,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q87",
+    "id": "q88",
     "text": "муниципалитетом Государственные унитарные предприятия являются:",
     "options": [
       {
@@ -2061,11 +2099,13 @@ export const questions: Question[] = [
         "text": "общественными организациями"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "а"
+    ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q88",
+    "id": "q89",
     "text": "Представители какой научной школы считают главной формой управления государственной собственностью финансовый менеджмент:",
     "options": [
       {
@@ -2086,13 +2126,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q89",
+    "id": "q90",
     "text": "Национализация – это:",
     "options": [
       {
@@ -2109,12 +2148,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q90",
+    "id": "q91",
     "text": "Объектом муниципальной собственности может являться:",
     "options": [
       {
@@ -2136,7 +2175,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q91",
+    "id": "q92",
     "text": "Одним из способов приватизации является:",
     "options": [
       {
@@ -2158,7 +2197,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q92",
+    "id": "q93",
     "text": "Куправлениюиспользованиемгосударственной собственности относится:",
     "options": [
       {
@@ -2180,7 +2219,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q93",
+    "id": "q94",
     "text": "Муниципальная собственность является:",
     "options": [
       {
@@ -2202,7 +2241,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q94",
+    "id": "q95",
     "text": "Возможностьопределениядальнейшейсудьбы муниципального имущества – правомочие:",
     "options": [
       {
@@ -2219,13 +2258,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б",
       "в"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q95",
+    "id": "q96",
     "text": "Кнематериальнымобъектамгосударственной собственности относится:",
     "options": [
       {
@@ -2242,12 +2280,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q96",
+    "id": "q97",
     "text": "Не может быть подвергнуто процедуре банкротства:",
     "options": [
       {
@@ -2269,7 +2307,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q97",
+    "id": "q98",
     "text": "Куправлениюиспользованиеммуниципальной собственности относится:",
     "options": [
       {
@@ -2291,7 +2329,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q98",
+    "id": "q99",
     "text": "Одним из способов приватизации является:",
     "options": [
       {
@@ -2313,7 +2351,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q99",
+    "id": "q100",
     "text": "Муниципальные учреждения являются:",
     "options": [
       {
@@ -2330,13 +2368,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q100",
+    "id": "q101",
     "text": "Возможность извлечения из муниципального имущества полезных свойств – правомочие:",
     "options": [
       {
@@ -2352,11 +2389,13 @@ export const questions: Question[] = [
         "text": "распоряжения"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "б"
+    ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q101",
+    "id": "q102",
     "text": "Первичнымсубъектомгосударственнойсобственности является:",
     "options": [
       {
@@ -2378,7 +2417,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q102",
+    "id": "q103",
     "text": "Куправлениюпреобразованиемгосударственной собственности относится:",
     "options": [
       {
@@ -2395,12 +2434,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q103",
+    "id": "q104",
     "text": "Ипотека – это:",
     "options": [
       {
@@ -2416,11 +2455,13 @@ export const questions: Question[] = [
         "text": "купля-продажа недвижимости"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "а"
+    ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q104",
+    "id": "q105",
     "text": "Процедура банкротства возможна в отношении:",
     "options": [
       {
@@ -2442,7 +2483,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q105",
+    "id": "q106",
     "text": "Внешнееуправлениеприликвидациигосударственного унитарного предприятия по причине банкротства осуществляет:",
     "options": [
       {
@@ -2464,7 +2505,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q106",
+    "id": "q107",
     "text": "«Малая» приватизация – это:",
     "options": [
       {
@@ -2486,7 +2527,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q107",
+    "id": "q108",
     "text": "Какиеорганыустанавливаютпорядокуправления муниципальной собственностью?",
     "options": [
       {
@@ -2508,7 +2549,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q108",
+    "id": "q109",
     "text": "Место нахождения унитарного предприятия определяется:",
     "options": [
       {
@@ -2530,7 +2571,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q109",
+    "id": "q110",
     "text": "Исполнительныморганомунитарногопредприятия является:",
     "options": [
       {
@@ -2552,7 +2593,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q110",
+    "id": "q111",
     "text": "Унитарное предприятие на праве хозяйственного ведения не имеет право:",
     "options": [
       {
@@ -2574,7 +2615,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q111",
+    "id": "q112",
     "text": "Государственные учреждения являются:",
     "options": [
       {
@@ -2591,13 +2632,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б",
       "в"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q112",
+    "id": "q113",
     "text": "Казенномуунитарномупредприятиюимущество, находящееся в государственной собственности, передается на праве:",
     "options": [
       {
@@ -2619,7 +2659,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q113",
+    "id": "q114",
     "text": "Объектомгосударственнойсобственностинеможет являться:",
     "options": [
       {
@@ -2636,12 +2676,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q114",
+    "id": "q115",
     "text": "Куправлениюпреобразованиеммуниципальной собственности относится:",
     "options": [
       {
@@ -2663,7 +2703,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q115",
+    "id": "q116",
     "text": "Возможность извлечения из государственного имущества полезных свойств – правомочие:",
     "options": [
       {
@@ -2685,7 +2725,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q116",
+    "id": "q117",
     "text": "Воздушноесудно,являющеесягосударственной собственностью, относится к:",
     "options": [
       {
@@ -2702,12 +2742,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q117",
+    "id": "q118",
     "text": "Внешнееуправлениеприликвидациимуниципального унитарного предприятия по причине банкротства осуществляет:",
     "options": [
       {
@@ -2729,7 +2769,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q118",
+    "id": "q119",
     "text": "основой: Муниципальнаясобственностьявляетсяэкономической",
     "options": [
       {
@@ -2751,7 +2791,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q119",
+    "id": "q120",
     "text": "Муниципальные унитарные предприятия являются:",
     "options": [
       {
@@ -2768,12 +2808,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q120",
+    "id": "q121",
     "text": "Возможностьопределениядальнейшейсудьбы государственного имущества – правомочие:",
     "options": [
       {
@@ -2795,7 +2835,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q121",
+    "id": "q122",
     "text": "Кнематериальнымобъектаммуниципальной собственности относится:",
     "options": [
       {
@@ -2817,7 +2857,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q122",
+    "id": "q123",
     "text": "Одним из способов приватизации является:",
     "options": [
       {
@@ -2834,13 +2874,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q123",
+    "id": "q124",
     "text": "Куправлениюиспользованиемгосударственной собственности не относится:",
     "options": [
       {
@@ -2857,12 +2896,34 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
+      "б"
+    ],
+    "discipline": "infa_finasy_sobstvennost"
+  },
+  {
+    "id": "q125",
+    "text": "Санация – это",
+    "options": [
+      {
+        "id": "а",
+        "text": "финансовое оздоровление"
+      },
+      {
+        "id": "б",
+        "text": "внешнее управление"
+      },
+      {
+        "id": "в",
+        "text": "огосударствление имущества"
+      }
+    ],
+    "correctOptionIds": [
       "а"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q124",
+    "id": "q126",
     "text": "Объектом национализации является: а) государственное унитарное предприятие",
     "options": [
       {
@@ -2880,7 +2941,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q125",
+    "id": "q127",
     "text": "Одним из этапов приватизации в России была:",
     "options": [
       {
@@ -2897,12 +2958,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q126",
+    "id": "q128",
     "text": "Допускается ли создание унитарного предприятия на базе объединения имущества, находящегося в собственности РФ, субъекта РФ или муниципального образования?",
     "options": [
       {
@@ -2924,7 +2985,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q127",
+    "id": "q129",
     "text": "Уставный фонд формируется:",
     "options": [
       {
@@ -2946,7 +3007,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q128",
+    "id": "q130",
     "text": "Руководитель унитарного предприятия подотчетен:",
     "options": [
       {
@@ -2968,7 +3029,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q129",
+    "id": "q131",
     "text": "Представители какой научной школы считают главной формой управления государственной собственностью финансовый менеджмент:",
     "options": [
       {
@@ -2994,7 +3055,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q130",
+    "id": "q132",
     "text": "Национализация – это:",
     "options": [
       {
@@ -3016,7 +3077,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q131",
+    "id": "q133",
     "text": "Объектоммуниципальнойсобственностинеможет являться:",
     "options": [
       {
@@ -3038,7 +3099,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q132",
+    "id": "q134",
     "text": "Одним из способов приватизации является:",
     "options": [
       {
@@ -3060,7 +3121,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q133",
+    "id": "q135",
     "text": "Куправлениюиспользованиемгосударственной собственности не относится:",
     "options": [
       {
@@ -3082,7 +3143,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q134",
+    "id": "q136",
     "text": "Возможностьопределениядальнейшейсудьбы муниципального имущества – правомочие:",
     "options": [
       {
@@ -3104,7 +3165,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q135",
+    "id": "q137",
     "text": "Кнематериальнымобъектамгосударственной собственности относится:",
     "options": [
       {
@@ -3126,7 +3187,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q136",
+    "id": "q138",
     "text": "Куправлениюиспользованиеммуниципальной собственности относится:",
     "options": [
       {
@@ -3148,7 +3209,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q137",
+    "id": "q139",
     "text": "Одним из способов приватизации является:",
     "options": [
       {
@@ -3170,7 +3231,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q138",
+    "id": "q140",
     "text": "Муниципальные учреждения являются:",
     "options": [
       {
@@ -3192,7 +3253,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q139",
+    "id": "q141",
     "text": "Возможность извлечения из муниципального имущества полезных свойств – правомочие:",
     "options": [
       {
@@ -3214,7 +3275,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q140",
+    "id": "q142",
     "text": "Первичнымсубъектомгосударственнойсобственности является:",
     "options": [
       {
@@ -3236,7 +3297,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q141",
+    "id": "q143",
     "text": "Куправлениюпреобразованиемгосударственной собственности относится:",
     "options": [
       {
@@ -3258,7 +3319,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q142",
+    "id": "q144",
     "text": "Ипотека – это:",
     "options": [
       {
@@ -3275,12 +3336,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q143",
+    "id": "q145",
     "text": "Процедура банкротства возможна в отношении:",
     "options": [
       {
@@ -3302,7 +3363,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q144",
+    "id": "q146",
     "text": "Внешнееуправлениеприликвидациигосударственного унитарного предприятия по причине банкротства осуществляет:",
     "options": [
       {
@@ -3324,7 +3385,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q145",
+    "id": "q147",
     "text": "Какиеорганыустанавливаютпорядокуправления муниципальной собственностью?",
     "options": [
       {
@@ -3346,7 +3407,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q146",
+    "id": "q148",
     "text": "Место нахождения унитарного предприятия определяется: а) местом его нахождения",
     "options": [
       {
@@ -3364,7 +3425,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q147",
+    "id": "q149",
     "text": "Исполнительныморганомунитарногопредприятия является:",
     "options": [
       {
@@ -3386,7 +3447,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q148",
+    "id": "q150",
     "text": "Унитарное предприятие на праве хозяйственного ведения не имеет право:",
     "options": [
       {
@@ -3408,7 +3469,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q149",
+    "id": "q151",
     "text": "Государственные учреждения НЕ являются:",
     "options": [
       {
@@ -3429,12 +3490,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "в"
+      "г"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q150",
+    "id": "q152",
     "text": "Объектом государственной собственности не может являться:",
     "options": [
       {
@@ -3460,7 +3521,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q151",
+    "id": "q153",
     "text": "Процедура банкротства невозможна в отношении:",
     "options": [
       {
@@ -3486,7 +3547,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q152",
+    "id": "q154",
     "text": "К нематериальным объектам государственной собственности не относится:",
     "options": [
       {
@@ -3507,12 +3568,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q153",
+    "id": "q155",
     "text": "Одним из способов приватизации не является:",
     "options": [
       {
@@ -3538,7 +3599,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q154",
+    "id": "q156",
     "text": "право: Унитарное предприятие на праве хозяйственного ведения имеет",
     "options": [
       {
@@ -3564,8 +3625,8 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q155",
-    "text": "КакуюфункциюНЕвыполняетгосударственная собственность:",
+    "id": "q157",
+    "text": "собственника КакуюфункциюНЕвыполняетгосударственная собственность:",
     "options": [
       {
         "id": "а",
@@ -3590,7 +3651,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q156",
+    "id": "q158",
     "text": "Муниципальная собственность - это:",
     "options": [
       {
@@ -3602,7 +3663,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q157",
+    "id": "q159",
     "text": "муниципалитетом Национализация – это:",
     "options": [
       {
@@ -3619,12 +3680,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q158",
+    "id": "q160",
     "text": "Объектом муниципальной собственности может являться:",
     "options": [
       {
@@ -3646,7 +3707,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q159",
+    "id": "q161",
     "text": "Одним из способов приватизации является:",
     "options": [
       {
@@ -3668,7 +3729,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q160",
+    "id": "q162",
     "text": "К управлению использованием государственной собственности относится:",
     "options": [
       {
@@ -3690,7 +3751,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q161",
+    "id": "q163",
     "text": "Методы, которые могут быть использованы при управлении государственной собственностью:",
     "options": [
       {
@@ -3712,7 +3773,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q162",
+    "id": "q164",
     "text": "Преобразование форм и отношений собственности включает такие институциональные инструментыпреобразования форм собственности, как (два правильных варианта):",
     "options": [
       {
@@ -3743,7 +3804,7 @@ export const questions: Question[] = [
     "discipline": "infa_finasy_sobstvennost"
   },
   {
-    "id": "q163",
+    "id": "q165",
     "text": "При управлении государственной собственностью реализуются следующие функции (два правильных варианта):",
     "options": [
       {
@@ -3769,13 +3830,13 @@ export const questions: Question[] = [
     ],
     "correctOptionIds": [
       "а",
-      "в"
+      "г"
     ],
     "discipline": "infa_finasy_sobstvennost"
   },
   {
     "id": "q1",
-    "text": "Введение в профессию «Государственное и муниципальное управление»: УК-9 Инклюзивное образование – это:",
+    "text": "Инклюзивное образование – это:",
     "options": [
       {
         "id": "а",
@@ -4182,26 +4243,58 @@ export const questions: Question[] = [
   },
   {
     "id": "q17",
+    "text": "военная служба",
+    "options": [
+      {
+        "id": "б",
+        "text": "государственная служба иных видов"
+      },
+      {
+        "id": "в",
+        "text": "функциональная служба"
+      },
+      {
+        "id": "г",
+        "text": "дипломатическая служба"
+      }
+    ],
+    "correctOptionIds": [
+      "в"
+    ],
+    "discipline": "Введение в ГИМУ"
+  },
+  {
+    "id": "q18",
     "text": "Выберите верные категории должностей государственной службы:",
     "options": [
       {
         "id": "а",
-        "text": "руководители, помощники (советники), специалисты, обеспечивающие специалисты"
+        "text": "руководители, помощники (советник"
+      },
+      {
+        "id": "и",
+        "text": ", специалисты, обеспечивающие специалисты"
       },
       {
         "id": "б",
-        "text": "руководители, помощники (советники), специалисты, секретари"
+        "text": "руководители, помощники (советник"
+      },
+      {
+        "id": "и",
+        "text": ", специалисты, секретари"
       },
       {
         "id": "в",
         "text": "высшие должности, советники, специалисты первой категории, секретари"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "а"
+    ],
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q18",
+    "id": "q19",
     "text": "Одним из условий принятия на государственную и муниципальную службу является:",
     "options": [
       {
@@ -4223,7 +4316,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q19",
+    "id": "q20",
     "text": "Государственный и муниципальный служащий обязан:",
     "options": [
       {
@@ -4249,7 +4342,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q20",
+    "id": "q21",
     "text": "Государственный и муниципальный служащий не вправе (два ответа):",
     "options": [
       {
@@ -4276,7 +4369,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q21",
+    "id": "q22",
     "text": "Федеральная служба – это:",
     "options": [
       {
@@ -4302,7 +4395,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q22",
+    "id": "q23",
     "text": "Федеральное министерство – это:",
     "options": [
       {
@@ -4328,7 +4421,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q23",
+    "id": "q24",
     "text": "Федеральное агентство – это:",
     "options": [
       {
@@ -4354,7 +4447,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q24",
+    "id": "q25",
     "text": "Президиум Правительства – это:",
     "options": [
       {
@@ -4372,7 +4465,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q25",
+    "id": "q26",
     "text": "Аппарат Правительства – это:",
     "options": [
       {
@@ -4390,7 +4483,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q26",
+    "id": "q27",
     "text": "В социальную сферу не входят услуги:",
     "options": [
       {
@@ -4416,7 +4509,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q27",
+    "id": "q28",
     "text": "Концепция базовых нужд основана на:",
     "options": [
       {
@@ -4442,7 +4535,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q28",
+    "id": "q29",
     "text": "Индекс развития человеческого капитала НЕ учитывает:",
     "options": [
       {
@@ -4468,7 +4561,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q29",
+    "id": "q30",
     "text": "Принцип субсидиарности при оказании государственных услуг:",
     "options": [
       {
@@ -4490,7 +4583,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q30",
+    "id": "q31",
     "text": "Концепция человеческого капитала основана на:",
     "options": [
       {
@@ -4516,7 +4609,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q31",
+    "id": "q32",
     "text": "Индекс развития человеческого капитала учитывает:",
     "options": [
       {
@@ -4542,7 +4635,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q32",
+    "id": "q33",
     "text": "Индекс развития человеческого капитала учитывает:",
     "options": [
       {
@@ -4568,7 +4661,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q33",
+    "id": "q34",
     "text": "Индекс развития человеческого капитала учитывает:",
     "options": [
       {
@@ -4594,7 +4687,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q34",
+    "id": "q35",
     "text": "Индекс развития человеческого капитала НЕ учитывает:",
     "options": [
       {
@@ -4620,7 +4713,7 @@ export const questions: Question[] = [
     "discipline": "Введение в ГИМУ"
   },
   {
-    "id": "q35",
+    "id": "q36",
     "text": "??? 35. Социальный эффект НЕ учитывает:",
     "options": [
       {
@@ -4875,10 +4968,16 @@ export const questions: Question[] = [
       },
       {
         "id": "г",
-        "text": "злоупотребление хозяйствующим субъектом, группой лиц своим доминирующим положением, соглашения или согласованные действия, запрещенные антимонопольным законодательством, а также иные действия (бездействие)."
+        "text": "злоупотребление хозяйствующим субъектом, группой лиц своим доминирующим положением, соглашения или согласованные действия, запрещенные антимонопольным законодательством, а также иные действия (бездействи"
+      },
+      {
+        "id": "е",
+        "text": "."
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "г"
+    ],
     "discipline": "Государственные и муниципальные закупки"
   },
   {
@@ -4887,7 +4986,11 @@ export const questions: Question[] = [
     "options": [
       {
         "id": "а",
-        "text": "любые действия хозяйствующих субъектов (группы лиц), которые направлены на получение преимуществ при осуществлении предпринимательской деятельности, противоречат законодательству Российской Федерации, обычаям делового оборота, требованиям добропорядочности, разумности и справедливости и причинили или могут причинить убытки другим хозяйствующим субъектам - конкурентам либо нанесли или могут нанести вред их деловой репутации."
+        "text": "любые действия хозяйствующих субъектов (группы ли"
+      },
+      {
+        "id": "ц",
+        "text": ", которые направлены на получение преимуществ при осуществлении предпринимательской деятельности, противоречат законодательству Российской Федерации, обычаям делового оборота, требованиям добропорядочности, разумности и справедливости и причинили или могут причинить убытки другим хозяйствующим субъектам - конкурентам либо нанесли или могут нанести вред их деловой репутации."
       },
       {
         "id": "б",
@@ -4898,7 +5001,9 @@ export const questions: Question[] = [
         "text": "условия доступа на товарный рынок, условия производства, обмена, потребления, приобретения, продажи, иной передачи товара, при которых хозяйствующий субъект или несколько хозяйствующих субъектов поставлены в неравное положение по сравнению с другим хозяйствующим субъектом или другими хозяйствующими субъектами"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "а"
+    ],
     "discipline": "Государственные и муниципальные закупки"
   },
   {
@@ -5089,10 +5194,16 @@ export const questions: Question[] = [
       },
       {
         "id": "й",
-        "text": "цены контракта, цены контракта, заключаемого с единственным поставщиком (подрядчиком, исполнителем), на основании информации о тарифах в определенной сфере деятельности"
+        "text": "цены контракта, цены контракта, заключаемого с единственным поставщиком (подрядчиком, исполнителе"
+      },
+      {
+        "id": "м",
+        "text": ", на основании информации о тарифах в определенной сфере деятельности"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "б"
+    ],
     "discipline": "Государственные и муниципальные закупки"
   },
   {
@@ -5364,7 +5475,6 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "МИКРО И МАКРО"
@@ -5409,7 +5519,6 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "МИКРО И МАКРО"
@@ -5427,7 +5536,9 @@ export const questions: Question[] = [
         "text": "Нет"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "а"
+    ],
     "discipline": "МИКРО И МАКРО"
   },
   {
@@ -5452,7 +5563,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "МИКРО И МАКРО"
   },
@@ -5540,7 +5651,6 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "МИКРО И МАКРО"
@@ -5610,7 +5720,9 @@ export const questions: Question[] = [
         "text": "Нет"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "а"
+    ],
     "discipline": "МИКРО И МАКРО"
   },
   {
@@ -5627,7 +5739,6 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "МИКРО И МАКРО"
@@ -5654,7 +5765,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "МИКРО И МАКРО"
   },
@@ -5736,7 +5847,6 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "МИКРО И МАКРО"
@@ -5755,7 +5865,6 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "МИКРО И МАКРО"
@@ -5774,7 +5883,6 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "МИКРО И МАКРО"
@@ -5801,7 +5909,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
@@ -6228,7 +6336,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "в"
+      "г"
     ],
     "discipline": "МИКРО И МАКРО"
   },
@@ -6280,7 +6388,7 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "в"
+      "г"
     ],
     "discipline": "МИКРО И МАКРО"
   },
@@ -6360,6 +6468,32 @@ export const questions: Question[] = [
   },
   {
     "id": "q44",
+    "text": "Трансфертные платежи",
+    "options": [
+      {
+        "id": "а",
+        "text": "выплаты, не обусловленные производством товаров и услуг"
+      },
+      {
+        "id": "б",
+        "text": "просроченные платежи"
+      },
+      {
+        "id": "в",
+        "text": "часть произведенного продукта, не имеющая форму дохода"
+      },
+      {
+        "id": "г",
+        "text": "рентные доходы"
+      }
+    ],
+    "correctOptionIds": [
+      "а"
+    ],
+    "discipline": "МИКРО И МАКРО"
+  },
+  {
+    "id": "q45",
     "text": "Чтобы перейти от валового национального продукта (ВНП) к чистому национальному продукту (ЧНП), необходимо",
     "options": [
       {
@@ -6380,12 +6514,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "в"
+      "г"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q45",
+    "id": "q46",
     "text": "Монетаристы считают, что",
     "options": [
       {
@@ -6411,7 +6545,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q46",
+    "id": "q47",
     "text": "Монетаристы считают, что скорость обращения денег стабильна и обществу необходимо такое количество денег, которое соответствует",
     "options": [
       {
@@ -6437,7 +6571,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q47",
+    "id": "q48",
     "text": "Утверждение, согласно которому изменение в величине денежного предложения – непосредственная причина изменения совокупного спроса и поэтому номинального ВВП, ближе всего к",
     "options": [
       {
@@ -6454,12 +6588,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q48",
+    "id": "q49",
     "text": "«Правило монетаристов» предполагает, что предложение денег должно увеличиваться темпами, равными",
     "options": [
       {
@@ -6480,12 +6614,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "в"
+      "г"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q49",
+    "id": "q50",
     "text": "Невозможность одновременного роста инфляции и безработицы доказывала теория",
     "options": [
       {
@@ -6506,13 +6640,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q50",
+    "id": "q51",
     "text": "Кейнсианское направление в экономической теории может быть охарактеризовано, как",
     "options": [
       {
@@ -6533,12 +6666,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q51",
+    "id": "q52",
     "text": "Кейнсианская теория утверждает, что",
     "options": [
       {
@@ -6564,7 +6697,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q52",
+    "id": "q53",
     "text": "Представителем теории экономики предложения является",
     "options": [
       {
@@ -6585,13 +6718,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б",
       "в"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q53",
+    "id": "q54",
     "text": "Согласнокейнсианскойтеорииосновойуспешногоразвития экономики является",
     "options": [
       {
@@ -6617,7 +6749,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q54",
+    "id": "q55",
     "text": "Теорию экономики предложения разрабатывал:",
     "options": [
       {
@@ -6638,13 +6770,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q55",
+    "id": "q56",
     "text": "Теория экономики предложения направлена на",
     "options": [
       {
@@ -6670,7 +6801,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q56",
+    "id": "q57",
     "text": "Главной причиной расстройства финансовой системы сторонники теории экономики предложения считали:",
     "options": [
       {
@@ -6696,7 +6827,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q57",
+    "id": "q58",
     "text": "Дж. М. Кейнс считал, что",
     "options": [
       {
@@ -6722,7 +6853,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q58",
+    "id": "q59",
     "text": "Из перечисленного ниже не являются общественным благом",
     "options": [
       {
@@ -6748,7 +6879,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q59",
+    "id": "q60",
     "text": "К «провалам рынка» относят такие процессы как",
     "options": [
       {
@@ -6774,7 +6905,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q60",
+    "id": "q61",
     "text": "Одним из проявлений «провалов рынка» является наличие",
     "options": [
       {
@@ -6800,7 +6931,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q61",
+    "id": "q62",
     "text": "Производство общественных благ убыточно, так как",
     "options": [
       {
@@ -6826,7 +6957,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q62",
+    "id": "q63",
     "text": "Общественный сектор – это часть экономического пространства, где",
     "options": [
       {
@@ -6852,7 +6983,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q63",
+    "id": "q64",
     "text": "Неконкурентность общественного блага означает, что",
     "options": [
       {
@@ -6878,7 +7009,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q64",
+    "id": "q65",
     "text": "Внешние эффекты – это",
     "options": [
       {
@@ -6904,7 +7035,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q65",
+    "id": "q66",
     "text": "Доминирующее место в общественном секторе занимают",
     "options": [
       {
@@ -6930,7 +7061,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q66",
+    "id": "q67",
     "text": "«Провалами рынка» называются",
     "options": [
       {
@@ -6956,7 +7087,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q67",
+    "id": "q68",
     "text": "В национальной экономике наблюдается ситуация с полным использованием всех производственных ресурсов, сопровождающаяся, однако, высокой инфляцией. В этих условиях снижению темпов инфляции могут способствовать",
     "options": [
       {
@@ -6982,7 +7113,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q68",
+    "id": "q69",
     "text": "Государственное регулирование рыночной экономики:",
     "options": [
       {
@@ -7008,7 +7139,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q69",
+    "id": "q70",
     "text": "Государственное регулирование решает проблему",
     "options": [
       {
@@ -7029,12 +7160,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "в"
+      "г"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q70",
+    "id": "q71",
     "text": "Несостоятельность рынка может заключаться",
     "options": [
       {
@@ -7060,7 +7191,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q71",
+    "id": "q72",
     "text": "Проявление несостоятельности рынка –– это",
     "options": [
       {
@@ -7085,12 +7216,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q72",
+    "id": "q73",
     "text": "Общественные блага –– это товары",
     "options": [
       {
@@ -7116,7 +7247,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q73",
+    "id": "q74",
     "text": "К функциям государства в рыночной экономике относятся",
     "options": [
       {
@@ -7137,12 +7268,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "в"
+      "г"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q74",
+    "id": "q75",
     "text": "Уменьшениестепенинеравенствавраспределениидоходов отразится на кривой Лоренца:",
     "options": [
       {
@@ -7168,7 +7299,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q75",
+    "id": "q76",
     "text": "В экономической теории неравенство доходов демонстрируется с помощью кривой:",
     "options": [
       {
@@ -7188,11 +7319,13 @@ export const questions: Question[] = [
         "text": "нет правильного ответа"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "а"
+    ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q76",
+    "id": "q77",
     "text": "Вслучаеабсолютногоравенствавраспределениидоходов коэффициент Джини будетравен",
     "options": [
       {
@@ -7218,7 +7351,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q77",
+    "id": "q78",
     "text": "Коэффициент Джини вырос с 0,22 до 0,35. Это означает, что",
     "options": [
       {
@@ -7239,12 +7372,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q78",
+    "id": "q79",
     "text": "Кривая Лоренца показывает",
     "options": [
       {
@@ -7270,7 +7403,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q79",
+    "id": "q80",
     "text": "В России в качестве порога бедности используется",
     "options": [
       {
@@ -7296,7 +7429,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q80",
+    "id": "q81",
     "text": "Величина ВВП зависит от",
     "options": [
       {
@@ -7317,12 +7450,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q81",
+    "id": "q82",
     "text": "Из перечисленного в состав ВНП включается",
     "options": [
       {
@@ -7348,7 +7481,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q82",
+    "id": "q83",
     "text": "ВВП увеличился с 500 млрд. руб. до 600 млрд. руб. Дефлятор ВВП увеличился со 125 до150%. Величина реального ВВП",
     "options": [
       {
@@ -7374,7 +7507,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q83",
+    "id": "q84",
     "text": "ВВП=5000 млрд. руб. Потребительские расходы=3200 млрд. руб. Государственные расходы=900 млрд. руб. Объем ЧВП составит",
     "options": [
       {
@@ -7400,7 +7533,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q84",
+    "id": "q85",
     "text": "Валовой внутренний продукт (ВВП) – это а) сумма всех произведенных товаров и услуг б) сумма всех реализованных товаров и услуг в) сумма всех готовых товаров и услуг",
     "options": [
       {
@@ -7414,7 +7547,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q85",
+    "id": "q86",
     "text": "Валовой внутренний продукт измеряется в",
     "options": [
       {
@@ -7435,12 +7568,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q86",
+    "id": "q87",
     "text": "Чтобы перейти от валового внутреннего продукта (ВВП) к чистому внутреннему продукту (ЧВП), необходимо",
     "options": [
       {
@@ -7461,12 +7594,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "в"
+      "г"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q87",
+    "id": "q88",
     "text": "Гражданин России временно работает в США, в американской частной фирме. Его доходы включаются в:",
     "options": [
       {
@@ -7480,7 +7613,27 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q88",
+    "id": "q89",
+    "text": "США",
+    "options": [
+      {
+        "id": "б",
+        "text": "ВВП России и ВНП США"
+      },
+      {
+        "id": "в",
+        "text": "ВНП России и ВНП США"
+      },
+      {
+        "id": "г",
+        "text": "ВНП США и ВВП США"
+      }
+    ],
+    "correctOptionIds": [],
+    "discipline": "МИКРО И МАКРО"
+  },
+  {
+    "id": "q90",
     "text": "Номинальный ВВП представляет собой стоимость товаров и услуг, измеренную в:",
     "options": [
       {
@@ -7500,11 +7653,13 @@ export const questions: Question[] = [
         "text": "ценах предшествующего периода"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "а"
+    ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q89",
+    "id": "q91",
     "text": "Из указанных ниже доходов или расходов не учитывается при подсчете ВВП данного года",
     "options": [
       {
@@ -7530,7 +7685,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q90",
+    "id": "q92",
     "text": "Из указанных ниже видов доходов или расходов учитывается при подсчете ВВП данного года:",
     "options": [
       {
@@ -7551,12 +7706,38 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q91",
+    "id": "q93",
+    "text": "Личный доход это",
+    "options": [
+      {
+        "id": "а",
+        "text": "стоимость произведенных за год товаров и услуг"
+      },
+      {
+        "id": "б",
+        "text": "доход, полученных домохозяйствами в течении данного года"
+      },
+      {
+        "id": "в",
+        "text": "весь доход, предназначенный для личных расходов, после уплаты налогов"
+      },
+      {
+        "id": "г",
+        "text": "ВВП минус амортизация"
+      }
+    ],
+    "correctOptionIds": [
+      "б"
+    ],
+    "discipline": "МИКРО И МАКРО"
+  },
+  {
+    "id": "q94",
     "text": "В состав ВВП включаются",
     "options": [
       {
@@ -7582,7 +7763,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q92",
+    "id": "q95",
     "text": "Если из национального дохода вычесть налоги на прибыль корпораций, нераспределенную прибыль и взносы на социальное страхование, а затем приплюсовать трансфертные платежи, то полученная сумма – это",
     "options": [
       {
@@ -7608,7 +7789,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q93",
+    "id": "q96",
     "text": "Располагаемый доход – это",
     "options": [
       {
@@ -7628,11 +7809,13 @@ export const questions: Question[] = [
         "text": "все предыдущие ответы неверны"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "а"
+    ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q94",
+    "id": "q97",
     "text": "Изперечисленныхвеличиннеиспользуетсяприопределении объема национального дохода",
     "options": [
       {
@@ -7653,13 +7836,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q95",
+    "id": "q98",
     "text": "Для расчета вклада фирмы в созданный ВВП, исчисленный производственным методом, необходимо из рыночной стоимости реализованной продукции вычесть",
     "options": [
       {
@@ -7685,7 +7867,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q96",
+    "id": "q99",
     "text": "ЕслиобъемреальногоВВПснизилсяна6%,ачисленность населения в том же году сократилась на 3%, то",
     "options": [
       {
@@ -7711,7 +7893,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q97",
+    "id": "q100",
     "text": "ВВВП,рассчитанныйпосуммерасходов,невключается следующая величина:",
     "options": [
       {
@@ -7732,12 +7914,38 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "в"
+      "г"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q98",
+    "id": "q101",
+    "text": "Дефлятор ВВП",
+    "options": [
+      {
+        "id": "а",
+        "text": "равен отношению номинального ВВП к реальному ВВП"
+      },
+      {
+        "id": "б",
+        "text": "равен отношению реального ВВП к номинальному ВВП"
+      },
+      {
+        "id": "в",
+        "text": "уменьшается при ускорении инфляции"
+      },
+      {
+        "id": "г",
+        "text": "нет верных ответов"
+      }
+    ],
+    "correctOptionIds": [
+      "а"
+    ],
+    "discipline": "МИКРО И МАКРО"
+  },
+  {
+    "id": "q102",
     "text": "Добавленная стоимость определяется как",
     "options": [
       {
@@ -7763,7 +7971,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q99",
+    "id": "q103",
     "text": "РостгосударственныхрасходовувеличиваетреальныйВВП только в том случае, если",
     "options": [
       {
@@ -7779,7 +7987,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q100",
+    "id": "q104",
     "text": "в негосударственном секторе",
     "options": [
       {
@@ -7791,7 +7999,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q101",
+    "id": "q105",
     "text": "Если расходы на потребление равны 60, валовые инвестиции 20, государственные закупки товаров и услуг 30, импорт 20, экспорт 10, амортизация 10, то валовой национальный продукт и чистый национальный продукт равны соответственно",
     "options": [
       {
@@ -7817,7 +8025,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q102",
+    "id": "q106",
     "text": "ВВП, рассчитанный по потоку расходов, и ВВП, рассчитанный по потоку доходов, соотносятся следующим образом",
     "options": [
       {
@@ -7835,7 +8043,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q103",
+    "id": "q107",
     "text": "темпов инфляции за рассматриваемый период г) все ответы верны В модели круговых потоков рассматривается кругооборот",
     "options": [
       {
@@ -7861,7 +8069,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q104",
+    "id": "q108",
     "text": "Модель круговых потоков иллюстрирует",
     "options": [
       {
@@ -7887,7 +8095,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q105",
+    "id": "q109",
     "text": "Если общий уровень цен в стране за год существенно вырастет, а производство товаров и услуг не изменится, то при прочих равных условиях",
     "options": [
       {
@@ -7913,7 +8121,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q106",
+    "id": "q110",
     "text": "Из предложенных ниже определений понятия «валовой внутренний продукт» выберите наилучшее. Валовой внутренний продукт – это",
     "options": [
       {
@@ -7939,7 +8147,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q107",
+    "id": "q111",
     "text": "Организациябританскойфирмойпроизводствакроссовокв России",
     "options": [
       {
@@ -7965,7 +8173,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q108",
+    "id": "q112",
     "text": "Промежуточный отрезок на кривой совокупного предложения",
     "options": [
       {
@@ -7986,12 +8194,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q109",
+    "id": "q113",
     "text": "Численноезначениеследующегопоказателяпадаетпосле наступления фазы подъема и растет после наступления фазы спада",
     "options": [
       {
@@ -8017,7 +8225,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q110",
+    "id": "q114",
     "text": "Согласнокейнсианскойтеории,уровеньпроизводства определяется величиной совокупного спроса. Это означает, что",
     "options": [
       {
@@ -8043,7 +8251,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q111",
+    "id": "q115",
     "text": "Согласнокейнсианскоймоделиравновесия,экономикабудет равновесна, если:",
     "options": [
       {
@@ -8059,7 +8267,25 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q112",
+    "id": "q116",
+    "text": "постоянна",
+    "options": [
+      {
+        "id": "в",
+        "text": "государственный бюджет сбалансирован"
+      },
+      {
+        "id": "г",
+        "text": "AS=AD"
+      }
+    ],
+    "correctOptionIds": [
+      "г"
+    ],
+    "discipline": "МИКРО И МАКРО"
+  },
+  {
+    "id": "q117",
     "text": "Милтон Фридмен и его сторонники – это экономисты, которые внесли вклад в:",
     "options": [
       {
@@ -8080,13 +8306,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q113",
+    "id": "q118",
     "text": "На основе исследования экономических процессов в 70-е годы XX века большинство экономистов согласилось с тем, что",
     "options": [
       {
@@ -8112,7 +8337,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q114",
+    "id": "q119",
     "text": "Неокейнсианцы считают, что",
     "options": [
       {
@@ -8138,7 +8363,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q115",
+    "id": "q120",
     "text": "Монетаристы считают, что",
     "options": [
       {
@@ -8164,7 +8389,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q116",
+    "id": "q121",
     "text": "Монетаристы считают, что скорость обращения денег стабильна и обществу необходимо такое количество денег, которое соответствует",
     "options": [
       {
@@ -8190,7 +8415,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q117",
+    "id": "q122",
     "text": "Несостоятельность рынка может заключаться",
     "options": [
       {
@@ -8216,7 +8441,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q118",
+    "id": "q123",
     "text": "Проявление несостоятельности рынка –– это",
     "options": [
       {
@@ -8241,12 +8466,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q119",
+    "id": "q124",
     "text": "Общественные блага –– это товары",
     "options": [
       {
@@ -8272,7 +8497,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q120",
+    "id": "q125",
     "text": "К функциям государства в рыночной экономике относятся",
     "options": [
       {
@@ -8293,12 +8518,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "в"
+      "г"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q121",
+    "id": "q126",
     "text": "Уменьшениестепенинеравенствавраспределениидоходов отразится на кривой Лоренца:",
     "options": [
       {
@@ -8324,7 +8549,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q122",
+    "id": "q127",
     "text": "В экономической теории неравенство доходов демонстрируется с помощью кривой:",
     "options": [
       {
@@ -8344,11 +8569,13 @@ export const questions: Question[] = [
         "text": "нет правильного ответа"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "а"
+    ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q123",
+    "id": "q128",
     "text": "Вслучаеабсолютногоравенствавраспределениидоходов коэффициент Джини будет равен",
     "options": [
       {
@@ -8374,7 +8601,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q124",
+    "id": "q129",
     "text": "Коэффициент Джини вырос с 0,22 до 0,35. Это означает, что",
     "options": [
       {
@@ -8395,12 +8622,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q125",
+    "id": "q130",
     "text": "Кривая Лоренца показывает",
     "options": [
       {
@@ -8426,7 +8653,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q126",
+    "id": "q131",
     "text": "В России в качестве порога бедности используется",
     "options": [
       {
@@ -8452,7 +8679,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q127",
+    "id": "q132",
     "text": "Если в стране выросло значение коэффициента Джини, то это означает, что в данной стране",
     "options": [
       {
@@ -8472,11 +8699,13 @@ export const questions: Question[] = [
         "text": "уменьшилась сумма поступлений в бюджет от налогов"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "а"
+    ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q128",
+    "id": "q133",
     "text": "Валовой внутренний продукт не включает",
     "options": [
       {
@@ -8497,12 +8726,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q129",
+    "id": "q134",
     "text": "Вслучаеабсолютногонеравенствавраспределениидоходов коэффициент Джини будет равен",
     "options": [
       {
@@ -8528,7 +8757,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q130",
+    "id": "q135",
     "text": "Если исследуется экономика, как целостная система, то это анализ",
     "options": [
       {
@@ -8549,13 +8778,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q131",
+    "id": "q136",
     "text": "Экономическая модель является",
     "options": [
       {
@@ -8581,7 +8809,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q132",
+    "id": "q137",
     "text": "Ссудный процент – это",
     "options": [
       {
@@ -8607,7 +8835,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q133",
+    "id": "q138",
     "text": "Какое понятие из перечисленных ниже относится к фазам делового цикла",
     "options": [
       {
@@ -8627,11 +8855,13 @@ export const questions: Question[] = [
         "text": "застой"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "в"
+    ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q134",
+    "id": "q139",
     "text": "Ставка процента выросла с 8 до 10%. Держатель бессрочной ценной бумаги, которая приносит ему годовой доход в 100 долл., постоянно будет иметь",
     "options": [
       {
@@ -8652,12 +8882,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q135",
+    "id": "q140",
     "text": "Имеются следующие данные: Ожидаемаянорма чистой прибыли (%) 9 7 5 3 1 9 Объеминвестицийв оборудование(млн. долл.) 20 50 00 60 30 500 Если ставка процента составит 13%, то инвестиции будут равны",
     "options": [
       {
@@ -8678,13 +8908,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q136",
+    "id": "q141",
     "text": "Чистым притоком капитала называется:",
     "options": [
       {
@@ -8710,7 +8939,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q137",
+    "id": "q142",
     "text": "Главнымметодологическимдопущением,применяемымв экономических исследованиях, является:",
     "options": [
       {
@@ -8736,7 +8965,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q138",
+    "id": "q143",
     "text": "Научным методом, не используемым в экономической теории, является:",
     "options": [
       {
@@ -8757,12 +8986,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q139",
+    "id": "q144",
     "text": "Какая из школ экономической теории была исторически первой:",
     "options": [
       {
@@ -8788,7 +9017,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q140",
+    "id": "q145",
     "text": "В чем заключается единство законов природы и экономических законов:",
     "options": [
       {
@@ -8814,7 +9043,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q141",
+    "id": "q146",
     "text": "Какаяизперечисленныхзадачявляетсяосновнойдля экономической системы?",
     "options": [
       {
@@ -8840,7 +9069,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q142",
+    "id": "q147",
     "text": "Микроэкономика–этообластьэкономическойтеории,которая изучает (2 ответа):",
     "options": [
       {
@@ -8867,7 +9096,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q143",
+    "id": "q148",
     "text": "К позитивным суждениям относятся (2 ответа):",
     "options": [
       {
@@ -8894,7 +9123,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q144",
+    "id": "q149",
     "text": "Элементами синтеза в методе экономической теории являются:",
     "options": [
       {
@@ -8920,7 +9149,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q145",
+    "id": "q150",
     "text": "Существование экономических проблем можно объяснить:",
     "options": [
       {
@@ -8946,7 +9175,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q146",
+    "id": "q151",
     "text": "Наиболее точное определение предмета микроэкономики – это:",
     "options": [
       {
@@ -8972,7 +9201,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q147",
+    "id": "q152",
     "text": "В настоящее время основное течение экономической мысли трактует экономику как науку:",
     "options": [
       {
@@ -8998,7 +9227,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q148",
+    "id": "q153",
     "text": "Экономические модели используются для:",
     "options": [
       {
@@ -9024,7 +9253,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q149",
+    "id": "q154",
     "text": "На рисунке показана кривая производственных возможностей. В экономической системе с полной занятостью ресурсов точка, характеризующая объемы национального производства товаров X и Y, будет расположена:",
     "options": [
       {
@@ -9050,7 +9279,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q150",
+    "id": "q155",
     "text": "К нематериальным благам относятся (укажите не менее двух вариантов ответа.:",
     "options": [
       {
@@ -9078,7 +9307,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q151",
+    "id": "q156",
     "text": "Автор классификации потребностей, включающая в себя пять групп:",
     "options": [
       {
@@ -9099,12 +9328,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q152",
+    "id": "q157",
     "text": "Студент учится в университете, получая стипендию 600 руб., но мог бы работать торговым представителем и получать зарплату 10 тыс. руб. Его альтернативные затраты на обучение равны:",
     "options": [
       {
@@ -9130,7 +9359,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q153",
+    "id": "q158",
     "text": "К материальным благам относятся (укажите не менее двух вариантов ответа):",
     "options": [
       {
@@ -9156,7 +9385,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q154",
+    "id": "q159",
     "text": "Чисто частное благо (укажите не менее двух вариантов ответа):",
     "options": [
       {
@@ -9182,7 +9411,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q155",
+    "id": "q160",
     "text": "Рабочий может производить детали А, Б, В. Затраты времени на детали и размер оплаты представлены в таблице: Деталь Затраты времени (мин.) Оплата (руб./шт.) A 20 50 B 30 70 C 15 40 Альтернативнаястоимость1часадосугадляэтогорабочего составляет:",
     "options": [
       {
@@ -9208,7 +9437,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q156",
+    "id": "q161",
     "text": "Фермер на своем поле может выращивать картофель, либо пшеницу. Если он засеет все поле картофелем, то соберет его 400 т., а если пшеницей - соберет ее 100 т. Альтернативная стоимость пятидесятой тонны пшеницы",
     "options": [
       {
@@ -9229,12 +9458,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q157",
+    "id": "q162",
     "text": "Потребности – это:",
     "options": [
       {
@@ -9260,7 +9489,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q158",
+    "id": "q163",
     "text": "Капитал в экономической теории – это: а) финансовые ресурсы",
     "options": [
       {
@@ -9277,12 +9506,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "б"
+      "в"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q159",
+    "id": "q164",
     "text": "Производственные возможности страны приведены в таблице. Рассчитайте альтернативные издержки единицы Х при переходе от альтернативы В к С. Товары/альтернативы Х 0 0 Y 00 0 5 5",
     "options": [
       {
@@ -9302,11 +9531,13 @@ export const questions: Question[] = [
         "text": "1/4"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "а"
+    ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q160",
+    "id": "q165",
     "text": "У вас есть должник, которому необходимо сегодня отдать вам 30 000 руб. и он просит отсрочить платеж на два года. Ставка банковского процента составляет 10% годовых. Чтобы вы согласились, он вам должен предложить в качестве платежа через два года не меньше, чем … руб.",
     "options": [
       {
@@ -9332,7 +9563,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q161",
+    "id": "q166",
     "text": "Известно, что товар Х приобретается всего пятью потребителями, и при этом спрос каждого потребителя описывается функцией qi = 50 - Р. Чему равна величина рыночного спроса, при которой его эластичность будет -4?",
     "options": [
       {
@@ -9358,7 +9589,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q162",
+    "id": "q167",
     "text": "На графике показаны кривые спроса (𝑫. и предложения (𝑺. на некий товар X. Если при прочих равных условиях повысится цена товара Y, который дополняет товар X в потреблении, то (укажите не менее двух вариантов ответа:",
     "options": [
       {
@@ -9380,12 +9611,13 @@ export const questions: Question[] = [
     ],
     "correctOptionIds": [
       "б",
+      "в",
       "г"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q163",
+    "id": "q168",
     "text": "Коэффициент перекрестной эластичности спроса на товар X по цене товара Y равен (-2.. В настоящее время Ру =100. К росту спроса на товар X с 80 до 96 единиц может привести изменение цены на товар Y до значения",
     "options": [
       {
@@ -9411,7 +9643,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q164",
+    "id": "q169",
     "text": "На рисунке показаны кривые спроса (D и предложения (S. Если правительство будет субсидировать производителя, то излишек производителя будет равен площади фигуры:",
     "options": [
       {
@@ -9437,7 +9669,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q165",
+    "id": "q170",
     "text": "Кривая спроса описывается уравнением QD = 400 – P, а кривая предложения — уравнением QS = 100 + 2P. Чему равен излишек потребителя?",
     "options": [
       {
@@ -9463,7 +9695,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q166",
+    "id": "q171",
     "text": "Если спрос задан уравнением 𝑸𝑫 = 𝟖𝟎 – 𝑷, а предложение 𝑸𝑺 = 𝟐𝑷 – 𝟕𝟎, то излишек производителя составит:",
     "options": [
       {
@@ -9489,7 +9721,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q167",
+    "id": "q172",
     "text": "Если спрос задан уравнением 𝑸𝑫 = 𝟖𝟎 – 𝑷, а предложение 𝑸𝑺 = 𝟐𝑷 – 𝟕𝟎, то излишек потребителя составит:",
     "options": [
       {
@@ -9515,7 +9747,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q168",
+    "id": "q173",
     "text": "Спрос предъявляет домохозяйство с функцией спроса QD = 330 – 2P, а предложение определяется фирмой, функция предложения которой QS = P + 60. При каких ценах в ситуации директивного установления государством цен рынок будет находиться в состоянии товарного дефицита? (укажите не менее двух вариантов ответа):",
     "options": [
       {
@@ -9542,7 +9774,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q169",
+    "id": "q174",
     "text": "Известно, что товар Х приобретается всего двумя потребителями, и при этом спрос первого потребителя описывается функцией q1 = 90- Р. а спрос второго потребителя – функцией q2 = 240 – 2Р. Значение цены при величине рыночного спроса, равной 72 составляет:",
     "options": [
       {
@@ -9568,7 +9800,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q170",
+    "id": "q175",
     "text": "Если спрос задан уравнением 𝑸𝑫 = 𝟏𝟎𝟎 – 𝑷 и рыночная цена составляет 80 д.ед., то показатель прямой эластичности спроса по цене в точке (по модулю) равен ………4……. Известно, что по цене 3,2 у.е. продано 50 кг товара, а после ее увеличения до 4 у.е. – 40 кг. Дуговая эластичность спроса на товар равна:",
     "options": [
       {
@@ -9594,7 +9826,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q171",
+    "id": "q176",
     "text": "Если снижение дохода на 5 % ведет к снижению величины спроса на этот товар на 5%, то эластичность спроса на этот товар по доходу равна",
     "options": [
       {
@@ -9624,7 +9856,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q172",
+    "id": "q177",
     "text": "Сущность аксиомы полной упорядоченности заключается в том, что (два ответа):",
     "options": [
       {
@@ -9651,7 +9883,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q173",
+    "id": "q178",
     "text": "Предпочтения потребителя приведены в таблице Количество товара, ед. 1 2 3 4 5 Общая полезность, ютиль 00 20 35 45 53 Предельная полезность потребления третьей единицы блага равна (ютилей):",
     "options": [
       {
@@ -9677,7 +9909,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q174",
+    "id": "q179",
     "text": "Точкипересечениябюджетнойлиниисосямикоординат характеризуются тем, что:",
     "options": [
       {
@@ -9698,12 +9930,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q175",
+    "id": "q180",
     "text": "В соответствии с аксиомой о ненасыщении (укажите не менее двух вариантов ответа):",
     "options": [
       {
@@ -9729,12 +9961,13 @@ export const questions: Question[] = [
     ],
     "correctOptionIds": [
       "а",
+      "б",
       "г"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q176",
+    "id": "q181",
     "text": "Наклон бюджетной линии обозначает:",
     "options": [
       {
@@ -9760,7 +9993,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q177",
+    "id": "q182",
     "text": "Экономисты предсказывают, что если бы цена товара сократилась на 25 руб., эффект замены увеличил бы его потребление на 3 шт. в месяц, эффект дохода сократил бы его потребление на 4 шт. в месяц. Тогда этот товар является:",
     "options": [
       {
@@ -9777,13 +10010,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
       "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q178",
+    "id": "q183",
     "text": "Эффект дохода означает, что:",
     "options": [
       {
@@ -9809,7 +10041,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q179",
+    "id": "q184",
     "text": "Определите, чему будет равен оптимальный объем полезности блага 𝑸 для функции полезности индивида 𝑼 = 𝟐𝟏 + 𝟐𝟎𝑸 – 𝟐𝑸²:",
     "options": [
       {
@@ -9835,7 +10067,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q180",
+    "id": "q185",
     "text": "Для максимизации совокупной полезности потребитель должен так распределить свой доход, чтобы:",
     "options": [
       {
@@ -9847,11 +10079,29 @@ export const questions: Question[] = [
         "text": "общая полезность каждого товара в расчете на единицу товара была"
       }
     ],
+    "correctOptionIds": [
+      "а"
+    ],
+    "discipline": "МИКРО И МАКРО"
+  },
+  {
+    "id": "q186",
+    "text": "одинаковой",
+    "options": [
+      {
+        "id": "в",
+        "text": "приобрести максимальное количество единиц товара"
+      },
+      {
+        "id": "г",
+        "text": "общая полезность каждого товара в расчете на рубль затрат была одинаковой"
+      }
+    ],
     "correctOptionIds": [],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q181",
+    "id": "q187",
     "text": "В равновесии рациональный индивид потребляет 2 кг помидоров по цене 3 у.е. за 1 кг и 4 кг груш по цене 5 у.е. за 1 кг. Предельная норма замены груш помидорами для него равна:",
     "options": [
       {
@@ -9872,14 +10122,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а",
-      "б",
       "в"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q182",
+    "id": "q188",
     "text": "Кардиналистический подход к анализу полезности предполагает:",
     "options": [
       {
@@ -9905,7 +10153,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q183",
+    "id": "q189",
     "text": "Ординалистский подход к анализу полезности предполагает:",
     "options": [
       {
@@ -9931,7 +10179,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q184",
+    "id": "q190",
     "text": "Еслипроизводствонекоторойфирмыописывается производственной функцией Q  10K 12L2 , то предельная норма замещения капитала трудом",
     "options": [
       {
@@ -9957,8 +10205,8 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q185",
-    "text": "равна: Если при увеличении факторов производства на 7% объем производства увеличился на 2,5%, то какой тип эффекта масштаба производства имеет место?",
+    "id": "q191",
+    "text": "MRTS KL равна: Если при увеличении факторов производства на 7% объем производства увеличился на 2,5%, то какой тип эффекта масштаба производства имеет место?",
     "options": [
       {
         "id": "а",
@@ -9978,12 +10226,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q186",
+    "id": "q192",
     "text": "Положительныйэффектмасштабапроизводстваможно объяснить:",
     "options": [
       {
@@ -10009,7 +10257,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q187",
+    "id": "q193",
     "text": "В краткосрочном периоде конкурентная фирма, максимизирующая прибыль или минимизирующая убытки, не будет продолжать производство, если:",
     "options": [
       {
@@ -10035,7 +10283,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q188",
+    "id": "q194",
     "text": "При каких условиях действует закон убывающей предельной производительности:",
     "options": [
       {
@@ -10061,7 +10309,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q189",
+    "id": "q195",
     "text": "На графике изображена отдача от масштаба:",
     "options": [
       {
@@ -10087,7 +10335,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q190",
+    "id": "q196",
     "text": "Если при росте выпуска продукции угол наклона кривой совокупного продукта растет, то соответствующая этому отрезку кривая предельного продукта будет:",
     "options": [
       {
@@ -10113,7 +10361,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q191",
+    "id": "q197",
     "text": "В точке максимума общего продукта",
     "options": [
       {
@@ -10138,12 +10386,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "г"
+      "д"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q192",
+    "id": "q198",
     "text": "Предельная норма технического замещения труда капиталом равна 2. Для обеспечения прежнего объема производства продукции при сокращении использования труда на 4 единицы необходимо увеличить использование капитала:",
     "options": [
       {
@@ -10164,12 +10412,12 @@ export const questions: Question[] = [
       }
     ],
     "correctOptionIds": [
-      "а"
+      "б"
     ],
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q193",
+    "id": "q199",
     "text": "Если производство некоторой фирмы описывается производственной функцией Q = 10K + 23L , то предельная норма замещения капитала трудом MRTSKL равна:",
     "options": [
       {
@@ -10195,7 +10443,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q194",
+    "id": "q200",
     "text": "Короткий период в микроэкономической теории — это отрезок времени, в течение которого:",
     "options": [
       {
@@ -10221,7 +10469,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q195",
+    "id": "q201",
     "text": "Производственная функция показывает",
     "options": [
       {
@@ -10251,7 +10499,7 @@ export const questions: Question[] = [
     "discipline": "МИКРО И МАКРО"
   },
   {
-    "id": "q196",
+    "id": "q202",
     "text": "На рисунке показаны кривые спроса (D., предельного дохода (MR., средних (AC. и предельных (MC. издержек фирмы в условиях монополистической конкуренции. Эта фирма получит максимальную прибыль при выпуске:",
     "options": [
       {
@@ -10561,7 +10809,9 @@ export const questions: Question[] = [
         "text": "сословно-представительную монархию"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "в"
+    ],
     "discipline": "Эволюция политической и экономической мысли"
   },
   {
@@ -11358,7 +11608,7 @@ export const questions: Question[] = [
       },
       {
         "id": "в",
-        "text": "выделение трех основных классов (владельцы земли, собственники капитала, рабочие)"
+        "text": "выделение трех основных классов (владельцы земли, собственники капитала, рабочи"
       },
       {
         "id": "г",
@@ -11436,22 +11686,24 @@ export const questions: Question[] = [
     "options": [
       {
         "id": "а",
-        "text": "«Исследование о природе и причинах богатства народов» (А. Смит)"
+        "text": "«Исследование о природе и причинах богатства народов» (А. Сми"
       },
       {
         "id": "б",
-        "text": "«Политическая анатомия Ирландии» (У. Петти)"
+        "text": "«Политическая анатомия Ирландии» (У. Петт"
       },
       {
         "id": "в",
-        "text": "«Основы политической экономии и некоторые аспекты…» (Дж.С. Милль)"
+        "text": "«Основы политической экономии и некоторые аспекты…» (Дж.С. Милл"
       },
       {
         "id": "г",
-        "text": "«Трактат политической экономии» (А. Монкретьен)"
+        "text": "«Трактат политической экономии» (А. Монкретье"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "а"
+    ],
     "discipline": "Эволюция политической и экономической мысли"
   },
   {
@@ -11827,11 +12079,11 @@ export const questions: Question[] = [
     "options": [
       {
         "id": "а",
-        "text": "сфера обращения (потребления)"
+        "text": "сфера обращения (потреблени"
       },
       {
         "id": "б",
-        "text": "сфера производства (предложения)"
+        "text": "сфера производства (предложени"
       },
       {
         "id": "в",
@@ -11842,7 +12094,9 @@ export const questions: Question[] = [
         "text": "сфера сельскохозяйственного производства"
       }
     ],
-    "correctOptionIds": [],
+    "correctOptionIds": [
+      "б"
+    ],
     "discipline": "Эволюция политической и экономической мысли"
   },
   {
@@ -12189,11 +12443,11 @@ export const questions: Question[] = [
     "options": [
       {
         "id": "а",
-        "text": "стражи (воины)"
+        "text": "стражи (воин"
       },
       {
         "id": "б",
-        "text": "правители (философы)"
+        "text": "правители (философ"
       },
       {
         "id": "в",
