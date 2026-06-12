@@ -25,7 +25,10 @@ export function ResultPage() {
   }
 
   const { test, results } = state;
-  const score = calculateScore(results);
+
+  // Only show questions that were actually answered
+  const answeredResults = results.filter(r => r.selectedOptionIds.length > 0);
+  const answeredScore = calculateScore(answeredResults);
 
   const getColor = (pct: number) => {
     if (pct >= 80) return 'text-green-400';
@@ -44,39 +47,44 @@ export function ResultPage() {
     <div>
       <div className="text-center mb-10">
         <h1 className="text-3xl font-bold text-white mb-2">{test.title}</h1>
-        <div className={`text-6xl font-bold ${getColor(score.percentage)} mb-2`}>
-          {score.percentage}%
+        <div className={`text-6xl font-bold ${getColor(answeredScore.percentage)} mb-2`}>
+          {answeredScore.percentage}%
         </div>
         <p className="text-gray-400">
-          {getGrade(score.percentage)} — {score.correct} из {score.total}
+          {getGrade(answeredScore.percentage)} — {answeredScore.correct} из {answeredResults.length} ответили
+        </p>
+        <p className="text-gray-500 text-sm mt-1">
+          Всего вопросов: {test.questions.length}
         </p>
       </div>
 
       <div className="w-full bg-gray-800 rounded-full h-3 mb-8">
         <div
           className={`h-3 rounded-full transition-all duration-500 ${
-            score.percentage >= 70
+            answeredScore.percentage >= 70
               ? 'bg-green-500'
-              : score.percentage >= 50
+              : answeredScore.percentage >= 50
               ? 'bg-yellow-500'
               : 'bg-red-500'
           }`}
-          style={{ width: `${score.percentage}%` }}
+          style={{ width: `${answeredScore.percentage}%` }}
         />
       </div>
 
       <div className="space-y-4 mb-8">
         {test.questions.map((q, i) => {
           const result = results.find((r) => r.questionId === q.id);
+          const wasAnswered = result && result.selectedOptionIds.length > 0;
           return (
-            <QuestionCard
-              key={q.id}
-              question={q}
-              index={i}
-              selectedOptionIds={result?.selectedOptionIds || []}
-              onSelect={() => {}}
-              showResult
-            />
+            <div key={q.id} className={!wasAnswered ? 'opacity-40' : ''}>
+              <QuestionCard
+                question={q}
+                index={i}
+                selectedOptionIds={result?.selectedOptionIds || []}
+                onSelect={() => {}}
+                showResult={wasAnswered}
+              />
+            </div>
           );
         })}
       </div>
