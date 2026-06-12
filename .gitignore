@@ -1,0 +1,6 @@
+node_modules/
+dist/
+scripts/files/
+scripts/*.cjs
+*.log
+.DS_Store
